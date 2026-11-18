@@ -1,0 +1,5 @@
+indicator,value,limit,utilisation_pct,status
+Portfolio DV01 ($ per bp),363631.1573524833,350000.0,103.8946163864238,BREACH
+Effective duration (years),3.7022622763709596,4.0,92.556556909274,WARN
+"Worst-scenario loss, % of MV (2022 replay)",9.100057195821956,8.0,113.75071494777444,BREACH
+Largest key-rate bucket share (10y),22.000128434205212,30.0,73.33376144735071,OK

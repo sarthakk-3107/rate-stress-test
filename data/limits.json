@@ -1,0 +1,6 @@
+{
+  "max_dv01": 350000,
+  "max_duration": 4.0,
+  "max_loss_pct_mv": 8.0,
+  "max_bucket_share_pct": 30.0
+}

@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+pytest
+yfinance  # optional, only for --live

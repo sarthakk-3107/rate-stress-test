@@ -1,0 +1,106 @@
+bond_id,description,sector,scenario,pnl
+B01,UST Bill 3M,Treasury,Parallel up,-589871.5520191193
+B02,UST Bill 6M,Treasury,Parallel up,-961272.8341420144
+B03,UST Bill 12M,Treasury,Parallel up,-1471467.0454161167
+B04,UST Note 2Y 3.875%,Treasury,Parallel up,-4376444.298927203
+B05,UST Note 3Y 4.000%,Treasury,Parallel up,-4887472.947895378
+B06,UST Note 5Y 4.125%,Treasury,Parallel up,-9347086.186207175
+B07,UST Note 7Y 4.250%,Treasury,Parallel up,-7878819.793309942
+B08,UST Note 10Y 4.375%,Treasury,Parallel up,-13170683.297703594
+B09,UST Bond 20Y 4.750%,Treasury,Parallel up,-6273802.327692144
+B10,UST Bond 30Y 4.625%,Treasury,Parallel up,-6042708.873331904
+B11,Agency 4.250% 2029,Agency,Parallel up,-1887675.9251205549
+B12,Agency 4.500% 2031,Agency,Parallel up,-2638903.8821639977
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Parallel up,-1999562.2847681232
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Parallel up,-2787664.989389263
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Parallel up,-2531063.4497568496
+B01,UST Bill 3M,Treasury,Parallel down,598676.0163560063
+B02,UST Bill 6M,Treasury,Parallel down,980404.9477615952
+B03,UST Bill 12M,Treasury,Parallel down,1515023.5234046131
+B04,UST Note 2Y 3.875%,Treasury,Parallel down,4590350.550601214
+B05,UST Note 3Y 4.000%,Treasury,Parallel down,5228499.858285055
+B06,UST Note 5Y 4.125%,Treasury,Parallel down,10368338.113407537
+B07,UST Note 7Y 4.250%,Treasury,Parallel down,9064122.297016785
+B08,UST Note 10Y 4.375%,Treasury,Parallel down,15946515.295138806
+B09,UST Bond 20Y 4.750%,Treasury,Parallel down,8776854.614282865
+B10,UST Bond 30Y 4.625%,Treasury,Parallel down,9557690.900034726
+B11,Agency 4.250% 2029,Agency,Parallel down,2003230.1192327142
+B12,Agency 4.500% 2031,Agency,Parallel down,2892606.5564968362
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Parallel down,2170829.8178437464
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Parallel down,3216195.1830118857
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Parallel down,2991136.6712816097
+B01,UST Bill 3M,Treasury,Steepener,466874.0053744316
+B02,UST Bill 6M,Treasury,Steepener,762879.4030416161
+B03,UST Bill 12M,Treasury,Steepener,926382.5827544928
+B04,UST Note 2Y 3.875%,Treasury,Steepener,1556115.4130450487
+B05,UST Note 3Y 4.000%,Treasury,Steepener,604506.5991813391
+B06,UST Note 5Y 4.125%,Treasury,Steepener,-1636548.9074724466
+B07,UST Note 7Y 4.250%,Treasury,Steepener,-2844380.611406043
+B08,UST Note 10Y 4.375%,Treasury,Steepener,-6652177.325072899
+B09,UST Bond 20Y 4.750%,Treasury,Steepener,-3928228.853742134
+B10,UST Bond 30Y 4.625%,Treasury,Steepener,-3956223.0171627775
+B11,Agency 4.250% 2029,Agency,Steepener,398910.17764015496
+B12,Agency 4.500% 2031,Agency,Steepener,-241550.72946510464
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Steepener,-31839.70739427954
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Steepener,-1033200.9601022527
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Steepener,-1126359.0369772688
+B01,UST Bill 3M,Treasury,Flattener,-593454.8371910751
+B02,UST Bill 6M,Treasury,Flattener,-965871.8537136614
+B03,UST Bill 12M,Treasury,Flattener,-1238802.5246496946
+B04,UST Note 2Y 3.875%,Treasury,Flattener,-2517662.5946904123
+B05,UST Note 3Y 4.000%,Treasury,Flattener,-1719222.9102898836
+B06,UST Note 5Y 4.125%,Treasury,Flattener,-553757.8227481693
+B07,UST Note 7Y 4.250%,Treasury,Flattener,1044837.5900748521
+B08,UST Note 10Y 4.375%,Treasury,Flattener,3893940.383029893
+B09,UST Bond 20Y 4.750%,Treasury,Flattener,2975903.5494199544
+B10,UST Bond 30Y 4.625%,Treasury,Flattener,3291313.883527968
+B11,Agency 4.250% 2029,Agency,Flattener,-823533.2299814075
+B12,Agency 4.500% 2031,Agency,Flattener,-375263.51858480275
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Flattener,-432533.06473157555
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Flattener,399871.7174889147
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Flattener,573275.830903504
+B01,UST Bill 3M,Treasury,Short up,-778988.7113246173
+B02,UST Bill 6M,Treasury,Short up,-1267365.6276912987
+B03,UST Bill 12M,Treasury,Short up,-1721262.1013425738
+B04,UST Note 2Y 3.875%,Treasury,Short up,-4063202.491265297
+B05,UST Note 3Y 4.000%,Treasury,Short up,-3562006.1740235686
+B06,UST Note 5Y 4.125%,Treasury,Short up,-4428377.100314632
+B07,UST Note 7Y 4.250%,Treasury,Short up,-2469265.1809492707
+B08,UST Note 10Y 4.375%,Treasury,Short up,-2456197.270761743
+B09,UST Bond 20Y 4.750%,Treasury,Short up,-513002.18754960224
+B10,UST Bond 30Y 4.625%,Treasury,Short up,-389929.54510619864
+B11,Agency 4.250% 2029,Agency,Short up,-1517544.5156180188
+B12,Agency 4.500% 2031,Agency,Short up,-1438668.8224133402
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Short up,-1219051.3639048412
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Short up,-849868.4678986929
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Short up,-605947.1800047532
+B01,UST Bill 3M,Treasury,Short down,794417.6105188578
+B02,UST Bill 6M,Treasury,Short down,1300833.998469308
+B03,UST Bill 12M,Treasury,Short down,1781162.8432019502
+B04,UST Note 2Y 3.875%,Treasury,Short down,4246119.89623259
+B05,UST Note 3Y 4.000%,Treasury,Short down,3737700.1489076912
+B06,UST Note 5Y 4.125%,Treasury,Short down,4638250.729813367
+B07,UST Note 7Y 4.250%,Treasury,Short down,2569579.152669579
+B08,UST Note 10Y 4.375%,Treasury,Short down,2536892.0422942042
+B09,UST Bond 20Y 4.750%,Treasury,Short down,530788.0456456058
+B10,UST Bond 30Y 4.625%,Treasury,Short down,404234.4627917148
+B11,Agency 4.250% 2029,Agency,Short down,1590660.4895645827
+B12,Agency 4.500% 2031,Agency,Short down,1508923.2694152892
+B13,IG Corp Financials 5.000% 2030,IG Corporate,Short down,1279148.514961835
+B14,IG Corp Technology 4.800% 2034,IG Corporate,Short down,883760.150375668
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,Short down,627756.3390706256
+B01,UST Bill 3M,Treasury,2022 replay,-1335272.465497762
+B02,UST Bill 6M,Treasury,2022 replay,-2168487.554988995
+B03,UST Bill 12M,Treasury,2022 replay,-3141346.0725182593
+B04,UST Note 2Y 3.875%,Treasury,2022 replay,-7934172.909856722
+B05,UST Note 3Y 4.000%,Treasury,2022 replay,-7742973.51704441
+B06,UST Note 5Y 4.125%,Treasury,2022 replay,-12475137.242157549
+B07,UST Note 7Y 4.250%,Treasury,2022 replay,-9701758.834826969
+B08,UST Note 10Y 4.375%,Treasury,2022 replay,-15269642.66272679
+B09,UST Bond 20Y 4.750%,Treasury,2022 replay,-7001760.890670672
+B10,UST Bond 30Y 4.625%,Treasury,2022 replay,-6288598.148009565
+B11,Agency 4.250% 2029,Agency,2022 replay,-3160899.1405052766
+B12,Agency 4.500% 2031,Agency,2022 replay,-3737048.0696476772
+B13,IG Corp Financials 5.000% 2030,IG Corporate,2022 replay,-2962209.6865048185
+B14,IG Corp Technology 4.800% 2034,IG Corporate,2022 replay,-3429270.541705895
+B15,IG Corp Industrials 5.250% 2035,IG Corporate,2022 replay,-3030944.37904742
